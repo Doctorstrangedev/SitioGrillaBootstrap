@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f0f3f5d8;
+    color: #fff;
+}
+
+header{
+    background-color: tomato;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.container-main{
+    margin-bottom: 20px;
+}
+
+main{
+    background-color: lightskyblue;
+    color: lightyellow;
+    padding: 20px 0;
+}
+
+aside{
+    background-color: blue;
+    padding: 20px 0;
+}
+
+.cards > div{
+    background-color: rebeccapurple;
+    color: #fff;
+    padding: 20px;
+
+    margin: auto;
+}
+
+
+footer{
+    color: white;
+    background-color: #1e1e1e;
+    padding: 20px 0;
+}
